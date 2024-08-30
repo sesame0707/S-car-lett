@@ -1,0 +1,9 @@
+[submodule "S-car-lett-A1"]
+	path = S-car-lett-A1
+	url = https://github.com/sesame0707/S-car-lett-A1.git
+[submodule "S-car-lett-A1-Firmware"]
+	path = S-car-lett-A1-Firmware
+	url = https://github.com/sesame0707/S-car-lett-A1-Firmware.git
+[submodule "S-car-lett-Connect"]
+	path = S-car-lett-Connect
+	url = https://github.com/sesame0707/S-car-lett-Connect.git
